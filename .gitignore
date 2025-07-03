@@ -1,3 +1,9 @@
+# Ignore files that contain patient identifiers
+change_ages.R
+change_ages_2.R
+create_cohort.do
+Histogram age at menopause.png
+
 # History files
 .Rhistory
 .Rapp.history
